@@ -1,3 +1,2 @@
 # homeServer
 
-um home server
